@@ -11,4 +11,8 @@
 int binary_tree_is_leaf(const binary_tree_t *node)
 {
 	return ((!node || node->left || node->right) ? 0 : 1);
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 28012fcb89a0672c117bbb0922faa8c8668d67dc
