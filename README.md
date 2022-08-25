@@ -58,6 +58,12 @@ At the end of this project, We were able to undesrtand these questions:
 
 ## Additional info :construction:
 ### Resources
+Binary tree (note the first line: Not to be confused with B-tree.)
+Data Structure and Algorithms - Tree
+Tree Traversal
+Binary Search Tree
+Data structures: Binary Tree
+Learning Objective
 
 #AUTHORS
 https://github.com/Elisheba12
